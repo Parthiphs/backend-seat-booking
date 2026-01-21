@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Ticket Booking — Seats Service
 
 This repository contains the backend for a ticket booking system focused on seat holds and bookings.
@@ -152,3 +153,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# backend-seat-booking
+AtomicSeat is a backend movie seat booking system built with NestJS that handles high-concurrency scenarios safely. It uses atomic database operations to prevent double booking, manages seat states (available, held, booked), supports time-based holds with auto-expiry, and maintains consistency across retries and restarts.
+>>>>>>> e7f0717257847e4c788f351c91bc342a1f33d21e
